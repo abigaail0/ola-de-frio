@@ -4,7 +4,8 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-Predicción de olas de frío en la provincia de Tierra del Fuego utilizando técnicas de Machine Learning
+# Predicción de olas de frío en la provincia de Tierra del Fuego utilizando técnicas de Machine Learning
+
 La ciudad de Río Grande está ubicada en una de las zonas más australes del país, y se caracteriza por un clima oceannico y alta frecuencia de eventos extremos de temperaturas mínimas, especialmente en invierno. Las olas de frío afectan no solo la salud pública, sino también sectores clave como la infraestructura, el transporte, la agricultura y la logística urbana. Es por esto que anticipar la ocurrencia de estos eventos permitirá optimizar alertas meteorológicas, planificar medidas preventivas ante riesgos climáticos y tomar decisiones estratégicas en el manejo energético y asistencial.
 ## Project Organization
 
