@@ -1,3 +1,8 @@
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/18ccc1b7-864e-4b55-b223-ecd081887299" width="800">
+</div>
+
+
 
 # Predicción de Olas de Frío en Río Grande, Tierra del Fuego
 
