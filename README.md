@@ -1,4 +1,5 @@
-![Portada del proyecto]([https://example.com/tu_imagen.png](https://es.pinterest.com/pin/147704062773132373/))
+![Portada del proyecto](descargas/Las olas de frío extremo en Europa del Norte son menos frecuentes, pero más peligrosas.png)
+
 
 
 # Predicción de Olas de Frío en Río Grande, Tierra del Fuego
