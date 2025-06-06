@@ -1,4 +1,6 @@
 ![Las olas de frío extremo en Europa del Norte son menos frecuentes, pero más peligrosas](https://github.com/user-attachments/assets/18ccc1b7-864e-4b55-b223-ecd081887299)
+<img src="Las olas de frío extremo en Europa del Norte son menos frecuentes, pero más peligrosas" width="800">
+
 
 
 
