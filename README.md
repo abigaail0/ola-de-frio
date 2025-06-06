@@ -1,3 +1,6 @@
+![Portada del proyecto]([https://example.com/tu_imagen.png](https://es.pinterest.com/pin/147704062773132373/))
+
+
 # Predicción de Olas de Frío en Río Grande, Tierra del Fuego
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
