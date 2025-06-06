@@ -1,5 +1,6 @@
+
 <div align="center">
-    <img src="(https://github.com/user-attachments/assets/d5d64a73-c00b-4724-9936-8f3332835891)> width="800">
+    <img src="https://github.com/user-attachments/assets/53645413-1ea8-4dfe-bfaf-7cd221730e58" alt="Portada del Proyecto" width="800">
 </div>
 
 # Predicción de Olas de Frío en Río Grande, Tierra del Fuego
