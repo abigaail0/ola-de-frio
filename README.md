@@ -16,6 +16,13 @@
 ## Objetivo
 El proyecto tuvo como objetivo desarrollar un modelo de Aprendizaje Automático capaz de predecir una ola de frío en la ciudad de Río Grande, Tierra del Fuego, a partir de variables meteorológicas históricas, con el fin de anticipar eventos climáticos y contribuir a la toma de decisiones preventivas. 
 
+## Contexto del Problema
+Dada la ubicación geográfica y el clima predominantemente frío de la región, predecir de forma anticipada la ocurrencia de una ola de frío es un desafío con alto valor social y técnico. Si bien existen métodos meteorológicos para el monitoreo, este proyecto explora el potencial del Aprendizaje Automático.  El desarrollo de un modelo predictivo de este tipo requiere abordar distintos aspectos: desde la definición objetiva de lo que se considera una “ola de frío” hasta el tratamiento de datos desbalanceados, pasando por la selección adecuada de variables y modelos. En este sentido, el trabajo busca responder preguntas clave como: 
+¿Cómo se puede identificar una ola de frío utilizando datos históricos de temperatura?
+¿Qué tipo de modelo de clasificación permite predecir estos eventos con mayor eficacia?
+¿Qué grado de precisión puede alcanzarse en la predicción de eventos poco frecuentes?
+
+
 
 ## Project Organization
 
