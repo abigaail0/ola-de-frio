@@ -13,6 +13,8 @@
 
 ## Las olas de frío pueden tener efectos severos en la población y en las infraestructuras. Este proyecto utiliza datos meteorológicos de Río Grande, Tierra del Fuego para entrenar un modelo de clasificación binaria que permite anticipar estos eventos y mejorar la toma de decisiones en climatología.
 
+## Objetivo
+El proyecto tuvo como objetivo desarrollar un modelo de Aprendizaje Automático capaz de predecir una ola de frío en la ciudad de Río Grande, Tierra del Fuego, a partir de variables meteorológicas históricas, con el fin de anticipar eventos climáticos y contribuir a la toma de decisiones preventivas. 
 
 
 ## Project Organization
