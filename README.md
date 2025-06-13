@@ -25,6 +25,23 @@ Dada la ubicación geográfica y el clima predominantemente frío de la región,
 
 ¿Qué grado de precisión puede alcanzarse en la predicción de eventos poco frecuentes?
 
+## Conclusiones
+
+En este proyecto se desarrolló un modelo de clasificación binaria capaz de predecir una ola de frío en Río Grande, Tierra del Fuego, con datos meteorológicos correspondientes al periodo 2021-2024.  En él se entrenaron dos algoritmos, un Árbol de decisión y Random Forest del cual este último fue el que mejores resultados proporcionó. 
+Estos resultados permiten concluir que el modelo Random Forest es efectivo para anticipar olas de frío en la región analizada, representando una herramienta útil para la toma de decisiones en contextos de prevención climática.
+
+Como recomendaciones para trabajos futuros sugiero:
+
+- Incluir datos de más años o de otras variables meteorológicas regionales (presión en zonas vecinas, humedad del suelo, etc.)
+
+- Explorar otros algoritmos más avanzados como XGBoost o LightGBM
+
+- Ajustar el umbral de decisión según el tipo de aplicación (conservador o sensible)
+
+- Complementar el modelo con sistemas de alerta temprana o mapas climáticos
+
+
+
 
 
 ## Project Organization
