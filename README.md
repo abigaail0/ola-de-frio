@@ -6,7 +6,7 @@
 
 
 # Predicción de Olas de Frío en Río Grande, Tierra del Fuego
-## Link de video: https://drive.google.com/file/d/1iUNejZsGjgP-iPX2SjzOjstZKuzfpfV9/view?usp=sharing
+## Link del video: https://drive.google.com/file/d/1iUNejZsGjgP-iPX2SjzOjstZKuzfpfV9/view?usp=sharing
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
